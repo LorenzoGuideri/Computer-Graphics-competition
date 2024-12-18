@@ -1,0 +1,3 @@
+/home/griso/Downloads/oidocrop/build/CMakeFiles/renderer.dir
+/home/griso/Downloads/oidocrop/build/CMakeFiles/edit_cache.dir
+/home/griso/Downloads/oidocrop/build/CMakeFiles/rebuild_cache.dir

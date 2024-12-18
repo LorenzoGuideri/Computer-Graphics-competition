@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/renderer.dir/link.d CMakeFiles/renderer.dir/main.cpp.o -o renderer  /usr/lib/libGL.so /usr/lib/libGLEW.so /usr/lib/libglfw.so.3.4 -lassimp -lavformat -lavcodec -lavutil -lswscale -lswresample -lm -lpthread -ldl -lz -llzma
